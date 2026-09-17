@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="AudioB: an octopus emitting sound waves">
+  <rect width="256" height="256" rx="56" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="255" height="255" rx="55.5" fill="none" stroke="#30363d"/>
+
+  <g fill="none" stroke="#58a6ff" stroke-width="9" stroke-linecap="round">
+    <path d="M 44 78 Q 20 118 44 158"/>
+    <path d="M 212 78 Q 236 118 212 158"/>
+  </g>
+
+  <g fill="none" stroke="#58a6ff" stroke-width="12" stroke-linecap="round">
+    <path d="M 84 140 C 82 164 74 176 68 192"/>
+    <path d="M 100 140 C 100 170 94 192 92 212"/>
+    <path d="M 116 140 C 118 166 114 186 114 204"/>
+    <path d="M 140 140 C 138 166 142 186 142 204"/>
+    <path d="M 156 140 C 156 170 162 192 164 212"/>
+    <path d="M 172 140 C 174 164 182 176 188 192"/>
+  </g>
+
+  <path d="M 74 148 C 74 96 98 64 128 64 C 158 64 182 96 182 148 Z" fill="#58a6ff"/>
+
+  <circle cx="112" cy="112" r="9" fill="#0d1117"/>
+  <circle cx="144" cy="112" r="9" fill="#0d1117"/>
+</svg>
